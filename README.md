@@ -1,14 +1,23 @@
-### Boas vindas ao meu perfil
+  ## Welcome to my profile
+My name is Pedro Oliveira Floter
 
-Meu nome é Pedro Oliveira Floter 
-  - Sou estudante da Escola Estadual Roselia Braga Xavier e estou estudando na Alura
-  - Tenho 15 ans
-  - estou desenvolvendo projetos com a  linguagem JavaScript
+  - I am a student at Escola Estadual Roselia Braga Xavier and I am studying at Alura
+  - I am 15 years old
+  - I am developing projects using the JavaScript language
 
-### Meus Projetos
-   Jogo estilo Pong
+
+### My Projects
+
+Pong-style game
+
   - https://scratch.mit.edu/projects/1055863751
   - https://editor.p5js.org/pfloter123/sketches/aCCjQhRX6
 
-  Projeto Recomendador de filmes 
-  -  https://editor.p5js.org/pfloter123/full/dxZMBdC39
+  
+    Movie Recommender Project
+
+  - https://editor.p5js.org/pfloter123/full/dxZMBdC39
+    
+
+  ## You can contact me :mailbox
+pedrooliveirafloter0@gmail.com
