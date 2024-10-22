@@ -1,7 +1,7 @@
   ## Welcome to my profile
 My name is Pedro Oliveira Floter
 
-  - I am a student at Escola Estadual Roselia Braga Xavier and I am studying at Alura
+  - I am a student at Escola Estadual Roselia Braga Xavier and I am student at Alura
   - I am 15 years old
   - I am developing projects using the JavaScript language
 
